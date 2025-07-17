@@ -1,0 +1,15 @@
+QLabel#HUDLabel
+{
+    border:1px black;
+    font-size: Large;
+    font-weight: bold;
+    /* background-color: #323232; */
+}
+QLabel#HUD
+{
+    color:yellow;
+    border:1px black;
+    font-size:10em;
+    font-weight: bold;
+    background-color: #323232;
+}

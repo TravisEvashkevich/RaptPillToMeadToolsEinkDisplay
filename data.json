@@ -1,0 +1,29 @@
+{
+    "UseGui": false,
+    "Eink": {
+        "enabled": true,
+        "size": "3inch"
+    },
+    "MTDetails": {
+        "MTUrl": "https://meadtools.com/api",
+        "MTGAuth": "https://meadtools.com/api/auth/start-oauth-flow",
+        "MTEmail": "smackmeawake@gmail.com",
+        "MTPassword": "blueMushroom1@",
+        "MTDeviceToken": "6ci2Obp76X",
+        "RefreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsImlhdCI6MTc0NjkwMTEyOSwiZXhwIjoxNzQ4MTEwNzI5fQ.ZvqYr3G5swMmWIe7Dx1YepjmiQfgsY4w6W5ip6rKQ88",
+        "AccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsImlhdCI6MTc0NzE2NTg2NSwiZXhwIjoxNzQ3NzcwNjY1fQ.yqPFYKerRVLLMvYLGPaqX1cRJI8Xqq5zOgOqQKbYbnc"
+    },
+    "Sessions": [
+        {
+            "MTHydromId": "",
+            "MTRecipeId": 589,
+            "BrewName": "Pacific Tangerine Sunrise",
+            "Pill Name": "Yellow Top",
+            "Mac Address": "78:E3:6D:29:19:16",
+            "Poll Interval": "120",
+            "Temp in C": true,
+            "Log To Database": true,
+            "StartSG": 1.04
+        }
+    ]
+}
